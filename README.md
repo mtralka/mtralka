@@ -1,16 +1,13 @@
-### Hi there 👋
+## 🛰️🖥️🧑‍🤝‍🧑 Matthew Tralka *(he/him/his)* 
 
-<!--
-**mtralka/mtralka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Geospatial software engineer and remote senser at the [University of Maryland](https://geog.umd.edu/). Passionate about making data more equitable, accessible, and approachable.
 
-Here are some ideas to get you started:
+Unfortunately (& ironically!), a lot of my work can't *yet* be made open-source. If you have a specific software-need that you think I can help with, please [contact](mailto:mtralka@umd.edu) me and I would be happy to help however I can.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Toolbox
+- Python - dask, celery, cython, etc
+- JavaScript / TypeScript - Vue 3, Nuxt, WindiCSS, Pinia, DeckGL, etc
+- Docker Compose
+- Postgres / PostGIS
+- AWS - EB, S3, CF, RFS, R53, DDB, Lambda
+- and anything else I need to get the job done
